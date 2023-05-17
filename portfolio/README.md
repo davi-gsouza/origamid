@@ -1,10 +1,10 @@
 <h1 align="center"> Projeto Portfólio </h1>
 
 <p align="center">
-  <b>PT-BR:</b> Site de bicicletas elétricas com orçamentos, seguros e compra. Projeto final do curso de HTML e CSS para iniciantes na Origamid.<br/>
+  <b>PT-BR:</b> Projeto simulando um portfólio pessoal contendo as habilidades necessárias para o mercado de trabalho.<br/>
 </p>
 <p align="center">
-  <b>EN:</b> Electric bikes website with quotes, insurance and purchase. Final project of the HTML and CSS course for beginners at Origamid.<br/>
+  <b>EN:</b> Project simulating a personal portfolio containing the necessary skills for the job market.<br/>
 </p>
 
 <p align="center">
@@ -27,6 +27,8 @@
 - CSS
 
 ## :writing_hand: Aprendizados
+
+Este foi o primeiro projeto desenvolvido no curso Origamid e foi extremamente importante para fixar conceitos, técnicas, entender as tags HTML e seus aninhamentos. Aprendi a separar o CSS em arquivos separados e com isso percebi que posso fragmentar melhor as etapas de um projeto.
 
 ## :memo: Licença
 

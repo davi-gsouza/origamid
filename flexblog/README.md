@@ -28,6 +28,8 @@
 
 ## :writing_hand: Aprendizados
 
+Neste curso aprendi todas as principais técnicas e conceitos de como utilizar CSS Flexbox em um projeto completo e como fica fácil organizar o conteúdo em tela. A minha principal dificuldade em Flexbox durante o curso foi sobre a propriedade `flex-basis`.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.

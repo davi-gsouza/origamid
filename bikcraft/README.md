@@ -1,10 +1,10 @@
 <h1 align="center"> Bikcraft </h1>
 
 <p align="center">
-  <b>PT-BR:</b> Um projeto simples simulando um blog pessoal com artigos de tecnologia.<br/>
+  <b>PT-BR:</b> Site de bicicletas elétricas com orçamentos, seguros e compra. Projeto final do curso de HTML e CSS para iniciantes na Origamid.<br/>
 </p>
 <p align="center">
-  <b>EN:</b> A simple project simulating a personal blog with technology articles.<br/>
+  <b>EN:</b> Electric bikes website with quotes, insurance and purchase. Final project of the HTML and CSS course for beginners at Origamid.<br/>
 </p>
 
 <p align="center">
@@ -28,6 +28,8 @@
 - JavaScript
 
 ## :writing_hand: Aprendizados
+
+Bikcraft é o projeto do módulo de HTML e CSS para iniciantes, com este projeto aprendi técnicas únicas de manipulação de imagens no CSS, a importância das classes utilitárias para textos e cores, união de flexbox e grid layout e como implementar códigos JavaScript ao projeto mesmo que de forma rápida e simples.
 
 ## :memo: Licença
 
